@@ -1,3 +1,3 @@
-![Snake animation](https://github.com/{{illi341}}/{{illi341}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{Barkod}}/{Barkod}}/blob/output/github-contribution-grid-snake.svg)
 
 ****
